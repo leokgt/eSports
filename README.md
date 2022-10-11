@@ -1,7 +1,7 @@
 # eSports-nlw-
 Project NLW (2022) - eSports (web-server)
 
-//Antes de executar o servidor ou os apps, verifique a porta de entrada para que não ocorra erros no executavel
+//Antes de executar o servidor ou os apps, verifique a porta de entrada para que não ocorra erros no executável
 
 //Execute => cd ' '(local onde deixou os arquivos)
 //Mobile execute #1 => cd/server (local do server)
