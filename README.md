@@ -13,3 +13,4 @@ Project NLW (2022) - eSports (web-server)
 //Mobile execute #1 => cd/mobile (local do app mobile)
 //Mobile execute #2 => expo start (Para inicializar o app para mobile)
 //Os arquivos mobile podem ocorrer erros devido a porta de entrada ou incompatibilidade de arquivos
+![630d2251fd7c6c8ef1d1df14_OG-nlw-esports](https://user-images.githubusercontent.com/110070861/196307612-99412452-4eba-4a09-ac1a-3a92d4a8d18f.jpg)
