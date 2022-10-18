@@ -13,7 +13,19 @@ Project NLW (2022) - eSports (web-server)
 *Vite
 *iMask
 
+📦Extenções (VSCode)
+*Postcss
+*TailwindCSS
+*R Component(Mobile)
+*Prisma
+*SQLite
+
 ❗Antes de executar o servidor ou os apps, verifique a porta de entrada para que não ocorra erros no executável
+
+🔰Funções para Inicializar (Get Started)
+npm run
+ou
+yarn dev
 
 💿 Server
 *Execute => cd ' '(local onde deixou os arquivos)
@@ -28,13 +40,6 @@ Project NLW (2022) - eSports (web-server)
 *Mobile execute #1 => cd/mobile (local do app mobile)
 *Mobile execute #2 => expo start (Para inicializar o app para mobile)
 *Os arquivos mobile podem ocorrer erros devido a porta de entrada ou incompatibilidade de arquivos
-
-📦Extenções (VSCode)
-*Postcss
-*TailwindCSS
-*R Component(Mobile)
-*Prisma
-*SQLite
 
 ![630d2251fd7c6c8ef1d1df14_OG-nlw-esports](https://user-images.githubusercontent.com/110070861/196307612-99412452-4eba-4a09-ac1a-3a92d4a8d18f.jpg)
 
